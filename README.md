@@ -1,4 +1,4 @@
-# Hi, I'm Daniel (Danyx) 👋
+# Hi, I'm Daniel Barchenko 👋
 
 ### International Award-Winning Photographer | Robotics & Python
 
